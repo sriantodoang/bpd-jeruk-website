@@ -1,0 +1,160 @@
+{
+  "dokumenKelembagaan": [
+    {
+      "id": 1,
+      "nama": "Tata Tertib BPD",
+      "deskripsi": "Peraturan tata tertib internal BPD Desa Jeruk Periode 2026–2034",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    },
+    {
+      "id": 2,
+      "nama": "Pakta Komitmen",
+      "deskripsi": "Pakta komitmen bersama seluruh anggota BPD Periode 2026–2034",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    },
+    {
+      "id": 3,
+      "nama": "Program Kerja",
+      "deskripsi": "Rencana program kerja BPD Desa Jeruk",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    },
+    {
+      "id": 4,
+      "nama": "Berita Acara Pelantikan BPD",
+      "deskripsi": "Berita acara pelantikan anggota BPD Periode 2026–2034",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    }
+  ],
+  "dokumenRegulasi": [
+    {
+      "id": 1,
+      "nama": "UU Desa No. 6 Tahun 2014",
+      "deskripsi": "Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+      "url": "https://www.dpr.go.id/dokjdih/document/uu/UU_2014_6.pdf",
+      "status": "Tersedia",
+      "sumber": "DPR RI"
+    },
+    {
+      "id": 2,
+      "nama": "Permendagri No. 110 Tahun 2016",
+      "deskripsi": "Peraturan Menteri Dalam Negeri tentang Badan Permusyawaratan Desa",
+      "url": "#",
+      "status": "Tersedia",
+      "sumber": "Kemendagri"
+    },
+    {
+      "id": 3,
+      "nama": "Perbup Sragen No. 21 Tahun 2018",
+      "deskripsi": "Peraturan Bupati Sragen tentang Petunjuk Pelaksanaan BPD Kabupaten Sragen",
+      "url": "#",
+      "status": "Tersedia",
+      "sumber": "Pemkab Sragen"
+    }
+  ],
+  "dokumenPublik": [
+    {
+      "id": 1,
+      "nama": "Agenda Rapat BPD",
+      "deskripsi": "Jadwal dan agenda rapat resmi BPD",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    },
+    {
+      "id": 2,
+      "nama": "Dokumentasi Kegiatan",
+      "deskripsi": "Foto dan dokumentasi kegiatan resmi BPD",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    },
+    {
+      "id": 3,
+      "nama": "Laporan Kegiatan",
+      "deskripsi": "Laporan triwulanan kegiatan BPD Desa Jeruk",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    }
+  ],
+  "agendaRapat": [
+    {
+      "id": 1,
+      "judul": "Rapat Koordinasi Bulanan BPD",
+      "tanggal": "2026-08-15",
+      "waktu": "09.00 WIB",
+      "tempat": "Balai Desa Jeruk",
+      "agenda": "Evaluasi kegiatan Juli 2026 dan perencanaan Agustus 2026",
+      "status": "Akan Datang"
+    },
+    {
+      "id": 2,
+      "judul": "Musyawarah Desa Khusus",
+      "tanggal": "2026-09-05",
+      "waktu": "10.00 WIB",
+      "tempat": "Balai Desa Jeruk",
+      "agenda": "Pembahasan Perdes tentang Pemberdayaan Ekonomi Desa",
+      "status": "Akan Datang"
+    },
+    {
+      "id": 3,
+      "judul": "Rapat Evaluasi APBDes Triwulan II",
+      "tanggal": "2026-07-10",
+      "waktu": "09.00 WIB",
+      "tempat": "Balai Desa Jeruk",
+      "agenda": "Evaluasi pelaksanaan APBDes Triwulan II Tahun 2026",
+      "status": "Selesai"
+    },
+    {
+      "id": 4,
+      "judul": "Musyawarah Desa RKPDes 2026",
+      "tanggal": "2026-02-25",
+      "waktu": "09.00 WIB",
+      "tempat": "Balai Desa Jeruk",
+      "agenda": "Pembahasan Rencana Kerja Pembangunan Desa Tahun 2026",
+      "status": "Selesai"
+    }
+  ],
+  "beritaAcara": [
+    {
+      "id": 1,
+      "judul": "Berita Acara Pelantikan BPD Periode 2026–2034",
+      "tanggal": "2026-01-15",
+      "nomor": "BA/001/BPD/I/2026",
+      "status": "Belum Tersedia"
+    },
+    {
+      "id": 2,
+      "judul": "Berita Acara Musdes RKPDes 2026",
+      "tanggal": "2026-02-25",
+      "nomor": "BA/002/BPD/II/2026",
+      "status": "Belum Tersedia"
+    },
+    {
+      "id": 3,
+      "judul": "Berita Acara Rapat Evaluasi APBDes TW I",
+      "tanggal": "2026-04-05",
+      "nomor": "BA/003/BPD/IV/2026",
+      "status": "Belum Tersedia"
+    }
+  ],
+  "laporanKegiatan": [
+    {
+      "id": 1,
+      "judul": "Laporan Kegiatan BPD Triwulan I 2026",
+      "periode": "Januari – Maret 2026",
+      "tanggal": "2026-04-10",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    },
+    {
+      "id": 2,
+      "judul": "Laporan Kegiatan BPD Triwulan II 2026",
+      "periode": "April – Juni 2026",
+      "tanggal": "2026-07-10",
+      "status": "Belum Tersedia",
+      "keterangan": "Dokumen akan tersedia setelah ditetapkan."
+    }
+  ]
+}

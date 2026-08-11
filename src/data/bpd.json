@@ -1,0 +1,116 @@
+{
+  "nama": "Badan Permusyawaratan Desa Jeruk",
+  "namaResmi": "Badan Permusyawaratan Desa (BPD) Desa Jeruk",
+  "periode": "2026–2034",
+  "jumlahAnggota": 9,
+  "dasar_hukum": [
+    {
+      "nomor": "1",
+      "nama": "UU No. 6 Tahun 2014",
+      "tentang": "Tentang Desa",
+      "url": "https://www.dpr.go.id/dokjdih/document/uu/UU_2014_6.pdf"
+    },
+    {
+      "nomor": "2",
+      "nama": "PP No. 43 Tahun 2014",
+      "tentang": "Peraturan Pelaksanaan Undang-Undang Desa",
+      "url": "#"
+    },
+    {
+      "nomor": "3",
+      "nama": "Permendagri No. 110 Tahun 2016",
+      "tentang": "Badan Permusyawaratan Desa",
+      "url": "#"
+    },
+    {
+      "nomor": "4",
+      "nama": "Perbup Sragen No. 21 Tahun 2018",
+      "tentang": "Petunjuk Pelaksanaan BPD Kabupaten Sragen",
+      "url": "#"
+    }
+  ],
+  "visi": "Terwujudnya BPD Desa Jeruk yang amanah, profesional, dan berpihak kepada rakyat dalam mendukung pembangunan desa yang transparan dan partisipatif.",
+  "misi": [
+    "Melaksanakan fungsi legislasi desa secara efektif dan bertanggung jawab",
+    "Menampung, menyalurkan, dan menindaklanjuti aspirasi masyarakat",
+    "Melakukan pengawasan kinerja pemerintah desa secara objektif",
+    "Membangun komunikasi yang baik antara BPD, pemerintah desa, dan masyarakat",
+    "Mendorong partisipasi aktif seluruh lapisan masyarakat dalam pembangunan desa"
+  ],
+  "sejarah": "Badan Permusyawaratan Desa (BPD) Desa Jeruk dibentuk berdasarkan amanat Undang-Undang Nomor 6 Tahun 2014 tentang Desa sebagai lembaga perwujudan demokrasi dalam penyelenggaraan pemerintahan desa. BPD merupakan lembaga yang melaksanakan fungsi pemerintahan desa bersama kepala desa, mewakili kepentingan dan aspirasi masyarakat. Pada periode 2026–2034, BPD Desa Jeruk terdiri dari 9 anggota yang terdiri atas 6 anggota keterwakilan wilayah (masing-masing 2 anggota dari Wilayah I, II, dan III) serta 3 anggota keterwakilan perempuan, untuk memastikan representasi yang adil dan menyeluruh bagi seluruh warga desa.",
+  "fungsi": [
+    {
+      "id": 1,
+      "judul": "Membahas dan Menyepakati Peraturan Desa",
+      "deskripsi": "BPD bersama Kepala Desa membahas dan menyepakati Rancangan Peraturan Desa (Ranperdes) sebelum ditetapkan menjadi Peraturan Desa (Perdes).",
+      "icon": "FileText"
+    },
+    {
+      "id": 2,
+      "judul": "Menampung dan Menyalurkan Aspirasi",
+      "deskripsi": "BPD bertugas menampung dan menyalurkan aspirasi masyarakat desa kepada pemerintah desa dan instansi terkait untuk ditindaklanjuti.",
+      "icon": "MessageSquare"
+    },
+    {
+      "id": 3,
+      "judul": "Pengawasan Kinerja Kepala Desa",
+      "deskripsi": "BPD melakukan pengawasan terhadap kinerja Kepala Desa dalam menjalankan pemerintahan desa sesuai peraturan yang berlaku.",
+      "icon": "Eye"
+    }
+  ],
+  "tugas": [
+    "Menggali, menampung, menghimpun, merumuskan dan menyalurkan aspirasi masyarakat",
+    "Menyelenggarakan musyawarah desa",
+    "Membentuk panitia pemilihan Kepala Desa",
+    "Membahas dan menyepakati rancangan Peraturan Desa bersama Kepala Desa",
+    "Melaksanakan pengawasan terhadap kinerja Kepala Desa",
+    "Melakukan evaluasi laporan keterangan penyelenggaraan pemerintahan desa",
+    "Menciptakan hubungan kerja yang harmonis dengan pemerintah desa",
+    "Melaksanakan tugas lain sesuai dengan peraturan perundang-undangan"
+  ],
+  "komposisi": {
+    "totalAnggota": 9,
+    "keterwakilanWilayah": 6,
+    "keterwakilanPerempuan": 3,
+    "wilayah": [
+      { "nama": "Wilayah I", "dusun": "Dusun Jeruk & Dusun Koplak", "jumlahAnggota": 2 },
+      { "nama": "Wilayah II", "dusun": "Dusun Kedungrejo & Dusun Kebonan", "jumlahAnggota": 2 },
+      { "nama": "Wilayah III", "dusun": "Dusun Karanganom & Dusun Bakalan", "jumlahAnggota": 2 }
+    ]
+  },
+  "struktur": {
+    "ketua": {
+      "nama": "[Nama Ketua]",
+      "jabatan": "Ketua BPD",
+      "wilayah": "—",
+      "pendidikan": "—"
+    },
+    "wakilKetua": {
+      "nama": "[Nama Wakil Ketua]",
+      "jabatan": "Wakil Ketua BPD",
+      "wilayah": "—",
+      "pendidikan": "—"
+    },
+    "sekretaris": {
+      "nama": "[Nama Sekretaris]",
+      "jabatan": "Sekretaris BPD",
+      "wilayah": "Keterwakilan Perempuan",
+      "pendidikan": "—"
+    },
+    "anggota": [
+      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
+      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
+      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
+      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
+      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
+      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
+      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Keterwakilan Perempuan" },
+      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Keterwakilan Perempuan" }
+    ]
+  },
+  "kontakBPD": {
+    "whatsapp": "",
+    "email": "",
+    "alamat": "Balai Desa Jeruk, Kecamatan Miri, Kabupaten Sragen"
+  }
+}

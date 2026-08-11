@@ -1,0 +1,94 @@
+{
+  "tahun": 2027,
+  "desa": "Desa Jeruk",
+  "statusPelaksanaan": "Persiapan",
+  "jadwalTentative": {
+    "sosialisasi": "September 2026",
+    "pembentukanPanitia": "Oktober 2026",
+    "pendaftaranCalon": "Januari 2027",
+    "kampanye": "Maret 2027",
+    "pemungutanSuara": "April 2027",
+    "penetapanHasil": "Mei 2027",
+    "pelantikan": "Juni 2027"
+  },
+  "dasarHukum": [
+    "UU No. 6 Tahun 2014 tentang Desa",
+    "PP No. 43 Tahun 2014 tentang Peraturan Pelaksanaan UU Desa",
+    "Permendagri No. 72 Tahun 2020 tentang Perubahan Kedua Permendagri No. 112 Tahun 2014",
+    "Perda Kabupaten Sragen tentang Pemilihan Kepala Desa"
+  ],
+  "peranBPD": [
+    "Membentuk panitia Pemilihan Kepala Desa",
+    "Menetapkan tata tertib dan jadwal tahapan pemilihan",
+    "Mengawasi jalannya proses pemilihan",
+    "Menjaga netralitas selama proses Pilkades",
+    "Menetapkan hasil pemilihan",
+    "Melaporkan hasil pemilihan kepada Bupati melalui Camat"
+  ],
+  "komitmenNetralitas": "BPD Desa Jeruk berkomitmen penuh untuk menjaga netralitas dalam pelaksanaan Pilkades 2027. Seluruh anggota BPD tidak diperkenankan berpihak kepada calon manapun dan wajib menjaga integritas proses pemilihan.",
+  "tahapan": [
+    {
+      "nomor": 1,
+      "nama": "Pembentukan Panitia Pilkades",
+      "deskripsi": "BPD membentuk panitia pelaksana Pilkades yang terdiri dari unsur masyarakat",
+      "status": "Belum Mulai",
+      "target": "Oktober 2026"
+    },
+    {
+      "nomor": 2,
+      "nama": "Pendaftaran dan Verifikasi Pemilih",
+      "deskripsi": "Pendataan dan verifikasi daftar pemilih tetap (DPT)",
+      "status": "Belum Mulai",
+      "target": "November 2026"
+    },
+    {
+      "nomor": 3,
+      "nama": "Pengumuman dan Pendaftaran Calon",
+      "deskripsi": "Pengumuman persyaratan dan pendaftaran bakal calon Kepala Desa",
+      "status": "Belum Mulai",
+      "target": "Januari 2027"
+    },
+    {
+      "nomor": 4,
+      "nama": "Penelitian dan Penetapan Calon",
+      "deskripsi": "Verifikasi berkas dan penetapan calon Kepala Desa yang berhak mengikuti pemilihan",
+      "status": "Belum Mulai",
+      "target": "Februari 2027"
+    },
+    {
+      "nomor": 5,
+      "nama": "Kampanye",
+      "deskripsi": "Masa kampanye calon Kepala Desa sesuai jadwal yang ditetapkan",
+      "status": "Belum Mulai",
+      "target": "Maret 2027"
+    },
+    {
+      "nomor": 6,
+      "nama": "Pemungutan dan Penghitungan Suara",
+      "deskripsi": "Pelaksanaan pemungutan suara dan penghitungan hasil pemilihan",
+      "status": "Belum Mulai",
+      "target": "April 2027"
+    },
+    {
+      "nomor": 7,
+      "nama": "Penetapan dan Pelantikan",
+      "deskripsi": "Penetapan calon terpilih dan pelantikan Kepala Desa terpilih",
+      "status": "Belum Mulai",
+      "target": "Mei - Juni 2027"
+    }
+  ],
+  "faq": [
+    {
+      "pertanyaan": "Siapa yang bisa menjadi pemilih dalam Pilkades?",
+      "jawaban": "Warga Desa Jeruk yang telah berusia 17 tahun atau sudah/pernah menikah, memiliki KTP/KK yang terdaftar di Desa Jeruk, dan terdaftar dalam DPT."
+    },
+    {
+      "pertanyaan": "Apa saja syarat menjadi calon Kepala Desa?",
+      "jawaban": "Syarat utama antara lain: WNI, usia minimal 25 tahun, pendidikan minimal SLTP atau sederajat, terdaftar sebagai penduduk Desa Jeruk minimal 1 tahun, tidak pernah dihukum penjara karena tindak pidana, dan syarat-syarat lain sesuai peraturan yang berlaku."
+    },
+    {
+      "pertanyaan": "Bagaimana peran BPD dalam Pilkades?",
+      "jawaban": "BPD bertugas membentuk panitia Pilkades, menetapkan tata tertib, mengawasi proses, dan menetapkan hasil pemilihan. BPD wajib menjaga netralitas dan tidak berpihak kepada calon manapun."
+    }
+  ]
+}

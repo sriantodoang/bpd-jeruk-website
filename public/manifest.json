@@ -1,0 +1,17 @@
+{
+  "name": "BPD Desa Jeruk",
+  "short_name": "BPD Jeruk",
+  "description": "Website Resmi BPD Desa Jeruk - Portal Transparansi dan Aspirasi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nama": "Desa Jeruk",
+  "kecamatan": "Miri",
+  "kabupaten": "Sragen",
+  "provinsi": "Jawa Tengah",
+  "kodePos": "57276",
+  "kodeWilayah": "3314072008",
+  "website": "https://mail.jeruk-miri.desa.id/",
+  "email": "desajeruk.miri@gmail.com",
+  "telepon": "-",
+  "koordinat": {
+    "lat": -7.324,
+    "lng": 110.987
+  },
+  "googleMapsUrl": "https://maps.google.com/?q=Desa+Jeruk+Miri+Sragen",
+  "luasWilayah": "4,52 km²",
+  "jumlahPenduduk": 3842,
+  "jumlahKK": 1124,
+  "jumlahDusun": 6,
+  "jumlahRT": 22,
+  "jumlahRW": 6,
+  "batasDesa": {
+    "utara": "Desa Sumberejo, Kecamatan Miri",
+    "selatan": "Desa Doyong, Kecamatan Miri",
+    "barat": "Desa Girimargo, Kecamatan Miri",
+    "timur": "Desa Brojol, Kecamatan Gemolong"
+  },
+  "potensiDesa": [
+    "Pertanian dan Perkebunan",
+    "Peternakan",
+    "Industri Rumahan",
+    "UMKM Lokal"
+  ],
+  "wilayah": [
+    { "id": 1, "nama": "Dusun Jeruk", "rt": ["RT 01/RW 01", "RT 02/RW 01", "RT 03/RW 01"] },
+    { "id": 2, "nama": "Dusun Kedungrejo", "rt": ["RT 01/RW 02", "RT 02/RW 02", "RT 03/RW 02"] },
+    { "id": 3, "nama": "Dusun Kebonan", "rt": ["RT 01/RW 03", "RT 02/RW 03", "RT 03/RW 03"] },
+    { "id": 4, "nama": "Dusun Karanganom", "rt": ["RT 01/RW 04", "RT 02/RW 04"] },
+    { "id": 5, "nama": "Dusun Koplak", "rt": ["RT 01/RW 05", "RT 02/RW 05"] },
+    { "id": 6, "nama": "Dusun Bakalan", "rt": ["RT 01/RW 06", "RT 02/RW 06"] }
+  ],
+  "aparaturDesa": {
+    "kepalaDesa": {
+      "nama": "Sarmin, S.Pd",
+      "jabatan": "Kepala Desa",
+      "periode": "2022–2028"
+    },
+    "sekretarisDesa": {
+      "nama": "Suryanto",
+      "jabatan": "Sekretaris Desa"
+    },
+    "perangkatDesa": [
+      { "nama": "Widodo", "jabatan": "Kaur Perencanaan" },
+      { "nama": "Sulastri", "jabatan": "Kaur Keuangan" },
+      { "nama": "Haryono", "jabatan": "Kaur TU & Umum" },
+      { "nama": "Agus Santoso", "jabatan": "Kasi Pemerintahan" },
+      { "nama": "Suwarni", "jabatan": "Kasi Kesejahteraan" },
+      { "nama": "Triyono", "jabatan": "Kasi Pelayanan" }
+    ]
+  },
+  "statistik": {
+    "pendidikan": [
+      { "label": "Tidak Sekolah", "jumlah": 312 },
+      { "label": "SD / Sederajat", "jumlah": 1204 },
+      { "label": "SMP / Sederajat", "jumlah": 876 },
+      { "label": "SMA / Sederajat", "jumlah": 1102 },
+      { "label": "Diploma", "jumlah": 178 },
+      { "label": "Sarjana (S1-S3)", "jumlah": 170 }
+    ],
+    "pekerjaan": [
+      { "label": "Petani", "jumlah": 856 },
+      { "label": "Buruh Tani", "jumlah": 423 },
+      { "label": "Pedagang", "jumlah": 234 },
+      { "label": "PNS / TNI / Polri", "jumlah": 89 },
+      { "label": "Swasta / Wiraswasta", "jumlah": 612 },
+      { "label": "Pelajar / Mahasiswa", "jumlah": 789 },
+      { "label": "Lainnya", "jumlah": 839 }
+    ],
+    "agama": [
+      { "label": "Islam", "jumlah": 3798 },
+      { "label": "Kristen", "jumlah": 32 },
+      { "label": "Lainnya", "jumlah": 12 }
+    ]
+  }
+}
