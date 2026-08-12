@@ -153,4 +153,4 @@ bpd-jeruk-website/
 ---
 
 **BPD Desa Jeruk** | Kecamatan Miri, Kabupaten Sragen
-Website Desa: https://mail.jeruk-miri.desa.id/
+Website Desa: https://jeruk-miri.desa.id/
