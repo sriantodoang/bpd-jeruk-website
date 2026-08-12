@@ -146,17 +146,17 @@ export default function ProfilBPD() {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-sm">
               <div className="bg-white rounded-lg p-3 border border-primary-100">
                 <div className="font-medium text-gray-900 mb-1">Wilayah 1</div>
-                <div className="text-gray-500 text-xs">Dusun Jeruk & Dusun Koplak</div>
+                <div className="text-gray-500 text-xs">Dusun Gempolsari & Dusun Mendalan</div>
                 <div className="text-primary-600 text-xs mt-1 font-medium">2 anggota</div>
               </div>
               <div className="bg-white rounded-lg p-3 border border-primary-100">
                 <div className="font-medium text-gray-900 mb-1">Wilayah 2</div>
-                <div className="text-gray-500 text-xs">Dusun Kedungrejo & Dusun Kebonan</div>
+                <div className="text-gray-500 text-xs">Dusun Cengklik & Dusun Jeruk</div>
                 <div className="text-primary-600 text-xs mt-1 font-medium">2 anggota</div>
               </div>
               <div className="bg-white rounded-lg p-3 border border-primary-100">
                 <div className="font-medium text-gray-900 mb-1">Wilayah 3</div>
-                <div className="text-gray-500 text-xs">Dusun Karanganom & Dusun Bakalan</div>
+                <div className="text-gray-500 text-xs">Dusun Tanjunganom & Dusun Ngledok</div>
                 <div className="text-primary-600 text-xs mt-1 font-medium">2 anggota</div>
               </div>
             </div>
