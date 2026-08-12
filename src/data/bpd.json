@@ -98,10 +98,10 @@
       "pendidikan": "—"
     },
     "anggota": [
-      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
-      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
-      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
-      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
+      { "nama": "Sunarno", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
+      { "nama": "Sukardi", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
+      { "nama": "Srianto", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
+      { "nama": "Dwi Wiyono", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
       { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
       { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
       { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Keterwakilan Perempuan" },
