@@ -34,7 +34,7 @@
       "id": 1,
       "nama": "UU Desa No. 6 Tahun 2014",
       "deskripsi": "Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
-      "url": "https://www.dpr.go.id/dokjdih/document/uu/UU_2014_6.pdf",
+      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/UU%20Nomor%2006%20Tahun%202014.pdf",
       "status": "Tersedia",
       "sumber": "DPR RI"
     },
@@ -42,7 +42,7 @@
       "id": 2,
       "nama": "Permendagri No. 110 Tahun 2016",
       "deskripsi": "Peraturan Menteri Dalam Negeri tentang Badan Permusyawaratan Desa",
-      "url": "#",
+      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/Permendagri%20No.%20110%20Tahun%202016.pdf",
       "status": "Tersedia",
       "sumber": "Kemendagri"
     },
@@ -50,7 +50,7 @@
       "id": 3,
       "nama": "Perbup Sragen No. 21 Tahun 2018",
       "deskripsi": "Peraturan Bupati Sragen tentang Petunjuk Pelaksanaan BPD Kabupaten Sragen",
-      "url": "#",
+      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/21.%20Perbup%20No%2021%20TH%202018.pdf",
       "status": "Tersedia",
       "sumber": "Pemkab Sragen"
     }
