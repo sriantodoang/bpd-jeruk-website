@@ -88,7 +88,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="https://mail.jeruk-miri.desa.id/"
+                  href="https://jeruk-miri.desa.id/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-white transition-colors flex items-center gap-1"
