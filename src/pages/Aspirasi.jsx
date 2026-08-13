@@ -18,12 +18,12 @@ const KATEGORI = [
 ];
 
 const WILAYAH = [
-  'Dusun Jeruk',
-  'Dusun Kedungrejo',
-  'Dusun Kebonan',
-  'Dusun Karanganom',
-  'Dusun Koplak',
-  'Dusun Bakalan',
+  'Dusun Tanjungsari',
+  'Dusun Bulaksari',
+  'Dusun Gempolsari',
+  'Dusun Mendalan',
+  'Dusun Cengklik',
+  'Dusun Sentulan',
 ];
 
 const initialForm = { nama: '', alamat: '', wilayah: '', kategori: '', pesan: '' };
