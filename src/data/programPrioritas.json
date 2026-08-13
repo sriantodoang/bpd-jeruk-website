@@ -35,7 +35,21 @@
         "Rekomendasi langkah kelembagaan berikutnya apabila diperlukan.",
         "Laporan resmi yang dapat disampaikan kepada masyarakat sesuai prosedur yang berlaku."
       ],
-      "catatan": "BPD tidak membuat kesimpulan sebelum proses verifikasi selesai. Semua pernyataan bersifat institusional dan mengacu pada dokumen resmi."
+      "catatan": "BPD tidak membuat kesimpulan sebelum proses verifikasi selesai. Semua pernyataan bersifat institusional dan mengacu pada dokumen resmi.",
+      "regulasiTerkait": [
+        {
+          "nomor": "Permendagri No. 3 Tahun 2024",
+          "judul": "Perubahan atas Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2016 tentang Pengelolaan Aset Desa",
+          "keterangan": "Relevan untuk pengelolaan dan penelusuran aset/tanah desa.",
+          "url": "https://peraturan.bpk.go.id/Details/291466/permendagri-no-3-tahun-2024"
+        },
+        {
+          "nomor": "PP No. 16 Tahun 2026",
+          "judul": "Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+          "keterangan": "Mengatur tata kelola aset dan keuangan desa secara umum.",
+          "url": "https://peraturan.bpk.go.id/Details/349409/pp-no-16-tahun-2026"
+        }
+      ]
     },
     {
       "id": "transparansi-desa",

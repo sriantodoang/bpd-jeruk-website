@@ -8,6 +8,7 @@ const navLinks = [
   { label: 'Tugas & Fungsi', path: '/tugas-fungsi' },
   { label: 'Aspirasi', path: '/aspirasi' },
   { label: 'Transparansi', path: '/transparansi' },
+  { label: 'Regulasi', path: '/regulasi' },
   { label: 'Berita', path: '/berita' },
   {
     label: 'Lebih',

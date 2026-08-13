@@ -32,27 +32,51 @@
   "dokumenRegulasi": [
     {
       "id": 1,
-      "nama": "UU Desa No. 6 Tahun 2014",
-      "deskripsi": "Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
-      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/UU%20Nomor%2006%20Tahun%202014.pdf",
+      "nama": "UU No. 3 Tahun 2024 tentang Perubahan Kedua UU Desa",
+      "deskripsi": "Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+      "url": "https://peraturan.bpk.go.id/Details/283617/uu-no-3-tahun-2024",
       "status": "Tersedia",
-      "sumber": "DPR RI"
+      "sumber": "BPK RI"
     },
     {
       "id": 2,
-      "nama": "Permendagri No. 110 Tahun 2016",
-      "deskripsi": "Peraturan Menteri Dalam Negeri tentang Badan Permusyawaratan Desa",
-      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/Permendagri%20No.%20110%20Tahun%202016.pdf",
+      "nama": "PP No. 16 Tahun 2026 tentang Pelaksanaan UU Desa",
+      "deskripsi": "Peraturan Pelaksanaan UU Desa — mencabut PP No. 43/2014 beserta perubahannya",
+      "url": "https://peraturan.bpk.go.id/Details/349409/pp-no-16-tahun-2026",
       "status": "Tersedia",
-      "sumber": "Kemendagri"
+      "sumber": "BPK RI"
     },
     {
       "id": 3,
-      "nama": "Perbup Sragen No. 21 Tahun 2018",
-      "deskripsi": "Peraturan Bupati Sragen tentang Petunjuk Pelaksanaan BPD Kabupaten Sragen",
-      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/21.%20Perbup%20No%2021%20TH%202018.pdf",
+      "nama": "Permendagri No. 110 Tahun 2016",
+      "deskripsi": "Peraturan Menteri Dalam Negeri tentang Badan Permusyawaratan Desa",
+      "url": "https://peraturan.bpk.go.id/Details/111601/permendagri-no-110-tahun-2016",
       "status": "Tersedia",
+      "sumber": "BPK RI"
+    },
+    {
+      "id": 4,
+      "nama": "Permendagri No. 3 Tahun 2024 tentang Pengelolaan Aset Desa",
+      "deskripsi": "Perubahan atas Permendagri No. 1 Tahun 2016 tentang Pengelolaan Aset Desa",
+      "url": "https://peraturan.bpk.go.id/Details/291466/permendagri-no-3-tahun-2024",
+      "status": "Tersedia",
+      "sumber": "BPK RI"
+    },
+    {
+      "id": 5,
+      "nama": "Perbup Sragen No. 21 Tahun 2018",
+      "deskripsi": "Petunjuk Pelaksanaan BPD Kabupaten Sragen (perlu dibaca bersama ketentuan nasional terbaru)",
+      "url": null,
+      "status": "Hubungi Instansi",
       "sumber": "Pemkab Sragen"
+    },
+    {
+      "id": 6,
+      "nama": "[ARSIP] UU No. 6 Tahun 2014 tentang Desa",
+      "deskripsi": "Undang-Undang Desa — telah diubah dua kali. Ditampilkan sebagai arsip.",
+      "url": "https://peraturan.bpk.go.id/Details/38582/uu-no-6-tahun-2014",
+      "status": "Arsip",
+      "sumber": "BPK RI"
     }
   ],
   "dokumenPublik": [

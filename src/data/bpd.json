@@ -7,26 +7,38 @@
     {
       "nomor": "1",
       "nama": "UU No. 6 Tahun 2014",
-      "tentang": "Tentang Desa",
-      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/UU%20Nomor%2006%20Tahun%202014.pdf"
+      "tentang": "Tentang Desa (telah diubah dua kali)",
+      "url": "https://peraturan.bpk.go.id/Details/38582/uu-no-6-tahun-2014"
     },
     {
       "nomor": "2",
-      "nama": "PP No. 43 Tahun 2014",
-      "tentang": "Peraturan Pelaksanaan Undang-Undang Desa",
-      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/PP%20Nomor%2043%20Tahun%202014.pdf"
+      "nama": "UU No. 3 Tahun 2024",
+      "tentang": "Perubahan Kedua atas UU No. 6 Tahun 2014 tentang Desa",
+      "url": "https://peraturan.bpk.go.id/Details/283617/uu-no-3-tahun-2024"
     },
     {
       "nomor": "3",
-      "nama": "Permendagri No. 110 Tahun 2016",
-      "tentang": "Badan Permusyawaratan Desa",
-      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/Permendagri%20No.%20110%20Tahun%202016.pdf"
+      "nama": "PP No. 16 Tahun 2026",
+      "tentang": "Peraturan Pelaksanaan UU Desa (berlaku sejak 27 Maret 2026, mencabut PP No. 43/2014)",
+      "url": "https://peraturan.bpk.go.id/Details/349409/pp-no-16-tahun-2026"
     },
     {
       "nomor": "4",
+      "nama": "Permendagri No. 110 Tahun 2016",
+      "tentang": "Badan Permusyawaratan Desa",
+      "url": "https://peraturan.bpk.go.id/Details/111601/permendagri-no-110-tahun-2016"
+    },
+    {
+      "nomor": "5",
+      "nama": "Permendagri No. 3 Tahun 2024",
+      "tentang": "Perubahan atas Permendagri No. 1 Tahun 2016 tentang Pengelolaan Aset Desa",
+      "url": "https://peraturan.bpk.go.id/Details/291466/permendagri-no-3-tahun-2024"
+    },
+    {
+      "nomor": "6",
       "nama": "Perbup Sragen No. 21 Tahun 2018",
-      "tentang": "Petunjuk Pelaksanaan BPD Kabupaten Sragen",
-      "url": "https://github.com/sriantodoang/bpd-jeruk-website/blob/374666837258886918c427f9c130f7658ed4696c/public/21.%20Perbup%20No%2021%20TH%202018.pdf"
+      "tentang": "Petunjuk Pelaksanaan BPD Kabupaten Sragen (perlu dibaca bersama ketentuan nasional terbaru)",
+      "url": null
     }
   ],
   "visi": "Terwujudnya BPD Desa Jeruk yang amanah, profesional, dan berpihak kepada rakyat dalam mendukung pembangunan desa yang transparan dan partisipatif.",
@@ -73,9 +85,21 @@
     "keterwakilanWilayah": 6,
     "keterwakilanPerempuan": 3,
     "wilayah": [
-      { "nama": "Wilayah I", "dusun": "Dusun Gempolsari & Dusun Mendalan", "jumlahAnggota": 2 },
-      { "nama": "Wilayah II", "dusun": "Dusun Cengklik & Dusun Jeruk", "jumlahAnggota": 2 },
-      { "nama": "Wilayah III", "dusun": "Dusun Tanjunganom & Dusun Ledok", "jumlahAnggota": 2 }
+      {
+        "nama": "Wilayah I",
+        "dusun": "Dusun Gempolsari & Dusun Mendalan",
+        "jumlahAnggota": 2
+      },
+      {
+        "nama": "Wilayah II",
+        "dusun": "Dusun Cengklik & Dusun Jeruk",
+        "jumlahAnggota": 2
+      },
+      {
+        "nama": "Wilayah III",
+        "dusun": "Dusun Tanjunganom & Dusun Ledok",
+        "jumlahAnggota": 2
+      }
     ]
   },
   "struktur": {
@@ -98,14 +122,46 @@
       "pendidikan": "—"
     },
     "anggota": [
-      { "nama": "Sunarno", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
-      { "nama": "Sukardi", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
-      { "nama": "Srianto", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
-      { "nama": "Dwi Wiyono", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
-      { "nama": "Dany Syagi Prasetyo", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
-      { "nama": "Jubaidi", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
-      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Keterwakilan Perempuan" },
-      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Keterwakilan Perempuan" }
+      {
+        "nama": "Sunarno",
+        "jabatan": "Anggota BPD",
+        "wilayah": "Wilayah I"
+      },
+      {
+        "nama": "Sukardi",
+        "jabatan": "Anggota BPD",
+        "wilayah": "Wilayah I"
+      },
+      {
+        "nama": "Srianto",
+        "jabatan": "Anggota BPD",
+        "wilayah": "Wilayah II"
+      },
+      {
+        "nama": "Dwi Wiyono",
+        "jabatan": "Anggota BPD",
+        "wilayah": "Wilayah II"
+      },
+      {
+        "nama": "Dany Syagi Prasetyo",
+        "jabatan": "Anggota BPD",
+        "wilayah": "Wilayah III"
+      },
+      {
+        "nama": "Jubaidi",
+        "jabatan": "Anggota BPD",
+        "wilayah": "Wilayah III"
+      },
+      {
+        "nama": "[Nama Anggota]",
+        "jabatan": "Anggota BPD",
+        "wilayah": "Keterwakilan Perempuan"
+      },
+      {
+        "nama": "[Nama Anggota]",
+        "jabatan": "Anggota BPD",
+        "wilayah": "Keterwakilan Perempuan"
+      }
     ]
   },
   "kontakBPD": {

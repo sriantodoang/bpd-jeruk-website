@@ -4,7 +4,7 @@ import {
   Search, Eye, MessageSquare, Users,
   Target, BookOpen, ListChecks, FileStack,
   CheckCircle2, AlertCircle, ChevronRight, ArrowLeft,
-  Info
+  Info, Scale, ExternalLink
 } from 'lucide-react';
 import PageHeader from '../components/ui/PageHeader';
 import programData from '../data/programPrioritas.json';
@@ -167,6 +167,38 @@ function ProgramCard({ program, index }) {
             ))}
           </ul>
         </div>
+
+        {/* Regulasi Terkait (jika ada) */}
+        {program.regulasiTerkait && program.regulasiTerkait.length > 0 && (
+          <div className="md:col-span-2 bg-primary-50 border border-primary-100 rounded-xl px-4 py-4">
+            <div className="flex items-center gap-2 mb-3">
+              <Scale className={`w-4 h-4 ${w.sectionIcon}`} />
+              <h3 className="font-display font-bold text-gray-900 text-sm uppercase tracking-wide">Regulasi Terkait</h3>
+            </div>
+            <div className="space-y-2">
+              {program.regulasiTerkait.map((reg, i) => (
+                <div key={i} className="bg-white rounded-lg border border-primary-100 px-3 py-2.5 flex items-start justify-between gap-3">
+                  <div>
+                    <p className="text-xs font-bold text-primary-700">{reg.nomor}</p>
+                    <p className="text-xs text-gray-700 leading-snug">{reg.judul}</p>
+                    <p className="text-xs text-gray-400 mt-0.5">{reg.keterangan}</p>
+                  </div>
+                  {reg.url && (
+                    <a
+                      href={reg.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-shrink-0 inline-flex items-center gap-1 text-xs font-semibold text-primary-700 hover:text-primary-900 bg-primary-50 border border-primary-200 px-2 py-1 rounded-lg transition-colors"
+                    >
+                      <ExternalLink className="w-3 h-3" />
+                      Lihat
+                    </a>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Catatan (jika ada) */}
         {program.catatan && (

@@ -1,0 +1,156 @@
+{
+  "_keterangan": "Sumber data regulasi untuk halaman /regulasi. Verifikasi via peraturan.bpk.go.id. Terakhir diperbarui: Agustus 2026.",
+  "kelompok": [
+    {
+      "id": "nasional",
+      "label": "A",
+      "judul": "Dasar Hukum Nasional",
+      "deskripsi": "Undang-Undang dan Peraturan Pemerintah yang menjadi landasan penyelenggaraan pemerintahan desa.",
+      "regulasi": [
+        {
+          "id": "uu-6-2014",
+          "nomor": "UU No. 6",
+          "tahun": 2014,
+          "judul": "Undang-Undang tentang Desa",
+          "status": "BERLAKU",
+          "statusNotes": "Telah diubah dua kali — terakhir oleh UU No. 3 Tahun 2024.",
+          "berlakuSejak": "15 Januari 2014",
+          "relevansi": "Landasan utama pembentukan, kewenangan, dan fungsi BPD serta penyelenggaraan pemerintahan desa.",
+          "url": "https://peraturan.bpk.go.id/Details/38582/uu-no-6-tahun-2014",
+          "arsip": false
+        },
+        {
+          "id": "uu-3-2024",
+          "nomor": "UU No. 3",
+          "tahun": 2024,
+          "judul": "Perubahan Kedua atas Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+          "status": "BERLAKU",
+          "statusNotes": "Diundangkan 25 April 2024. Mengubah antara lain masa jabatan Kepala Desa dan BPD menjadi 8 tahun, serta mengatur BPD pada kawasan konservasi.",
+          "berlakuSejak": "25 April 2024",
+          "badge": "TERBARU — 2024",
+          "badgeWarna": "green",
+          "relevansi": "Memperbarui ketentuan masa jabatan anggota BPD menjadi 8 tahun per periode (maksimal 2 periode). Dasar hukum BPD Desa Jeruk Periode 2026–2034.",
+          "url": "https://peraturan.bpk.go.id/Details/283617/uu-no-3-tahun-2024",
+          "arsip": false
+        },
+        {
+          "id": "pp-16-2026",
+          "nomor": "PP No. 16",
+          "tahun": 2026,
+          "judul": "Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+          "status": "BERLAKU",
+          "statusNotes": "Berlaku sejak 27 Maret 2026. Mencabut dan menggantikan PP No. 43 Tahun 2014 beserta seluruh perubahannya (PP No. 47/2015 dan PP No. 11/2019).",
+          "berlakuSejak": "27 Maret 2026",
+          "badge": "TERBARU — 2026",
+          "badgeWarna": "emerald",
+          "catatan": "PP No. 16 Tahun 2026 merupakan peraturan pelaksanaan terbaru UU Desa dan mencabut PP No. 43 Tahun 2014 beserta perubahannya.",
+          "relevansi": "Peraturan pelaksanaan aktif yang mengatur tata kelola desa, BPD, keuangan, aset, dan Pilkades. Wajib menjadi acuan utama bagi BPD dan pemerintah desa.",
+          "url": "https://peraturan.bpk.go.id/Details/349409/pp-no-16-tahun-2026",
+          "arsip": false
+        },
+        {
+          "id": "pp-43-2014",
+          "nomor": "PP No. 43",
+          "tahun": 2014,
+          "judul": "Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+          "status": "DICABUT",
+          "statusNotes": "Dicabut dan dinyatakan tidak berlaku sejak berlakunya PP No. 16 Tahun 2026 (27 Maret 2026). Ditampilkan sebagai arsip historis.",
+          "berlakuSejak": "2014",
+          "dicabutOleh": "PP No. 16 Tahun 2026",
+          "relevansi": "Ditampilkan sebagai referensi arsip. Tidak berlaku sejak 27 Maret 2026.",
+          "url": "https://peraturan.bpk.go.id/Details/5040/pp-no-43-tahun-2014",
+          "arsip": true
+        },
+        {
+          "id": "pp-47-2015",
+          "nomor": "PP No. 47",
+          "tahun": 2015,
+          "judul": "Perubahan atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+          "status": "DICABUT",
+          "statusNotes": "Dicabut bersama PP No. 43 Tahun 2014 oleh PP No. 16 Tahun 2026. Ditampilkan sebagai arsip historis.",
+          "berlakuSejak": "2015",
+          "dicabutOleh": "PP No. 16 Tahun 2026",
+          "relevansi": "Ditampilkan sebagai referensi arsip. Tidak berlaku sejak 27 Maret 2026.",
+          "url": "https://peraturan.bpk.go.id/Details/5621/pp-no-47-tahun-2015",
+          "arsip": true
+        },
+        {
+          "id": "pp-11-2019",
+          "nomor": "PP No. 11",
+          "tahun": 2019,
+          "judul": "Perubahan Kedua atas Peraturan Pemerintah Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan Undang-Undang Nomor 6 Tahun 2014 tentang Desa",
+          "status": "DICABUT",
+          "statusNotes": "Dicabut bersama PP No. 43 Tahun 2014 oleh PP No. 16 Tahun 2026. Ditampilkan sebagai arsip historis.",
+          "berlakuSejak": "2019",
+          "dicabutOleh": "PP No. 16 Tahun 2026",
+          "relevansi": "Ditampilkan sebagai referensi arsip. Tidak berlaku sejak 27 Maret 2026.",
+          "url": "https://peraturan.bpk.go.id/Details/106753/pp-no-11-tahun-2019",
+          "arsip": true
+        }
+      ]
+    },
+    {
+      "id": "bpd",
+      "label": "B",
+      "judul": "Regulasi Khusus BPD",
+      "deskripsi": "Peraturan yang secara khusus mengatur pembentukan, kewenangan, dan tata kerja Badan Permusyawaratan Desa.",
+      "regulasi": [
+        {
+          "id": "permendagri-110-2016",
+          "nomor": "Permendagri No. 110",
+          "tahun": 2016,
+          "judul": "Badan Permusyawaratan Desa",
+          "status": "BERLAKU",
+          "statusNotes": "Masih berlaku sebagai regulasi teknis khusus BPD. Perlu dibaca bersama UU No. 3 Tahun 2024 dan PP No. 16 Tahun 2026 yang memperbarui ketentuan induknya.",
+          "berlakuSejak": "2016",
+          "relevansi": "Mengatur secara teknis tata cara pemilihan, penetapan, tugas, hak, kewajiban, dan tata kerja BPD. Regulasi teknis utama bagi BPD Desa Jeruk.",
+          "url": "https://peraturan.bpk.go.id/Details/111601/permendagri-no-110-tahun-2016",
+          "arsip": false
+        }
+      ]
+    },
+    {
+      "id": "sragen",
+      "label": "C",
+      "judul": "Regulasi Kabupaten Sragen",
+      "deskripsi": "Peraturan daerah Kabupaten Sragen yang menjadi acuan pelaksanaan BPD di tingkat kabupaten.",
+      "regulasi": [
+        {
+          "id": "perbup-21-2018",
+          "nomor": "Perbup Sragen No. 21",
+          "tahun": 2018,
+          "judul": "Petunjuk Pelaksanaan Perda Kabupaten Sragen mengenai Badan Permusyawaratan Desa",
+          "status": "PERLU VERIFIKASI",
+          "statusNotes": "Perlu dibaca bersama ketentuan nasional terbaru dan harmonisasi peraturan yang berlaku. Status pemberlakuan penuh terhadap ketentuan PP No. 16 Tahun 2026 masih perlu dikonfirmasi dengan instansi berwenang.",
+          "berlakuSejak": "2018",
+          "relevansi": "Referensi petunjuk teknis pelaksanaan BPD di lingkup Kabupaten Sragen. Ketentuannya perlu disesuaikan dengan regulasi nasional terbaru.",
+          "url": null,
+          "catatan": "Perlu dibaca bersama ketentuan nasional terbaru dan harmonisasi peraturan yang berlaku.",
+          "arsip": false
+        }
+      ]
+    },
+    {
+      "id": "bidang",
+      "label": "D",
+      "judul": "Regulasi Sesuai Bidang",
+      "deskripsi": "Peraturan yang relevan dengan program dan agenda kerja BPD Desa Jeruk.",
+      "regulasi": [
+        {
+          "id": "permendagri-3-2024",
+          "nomor": "Permendagri No. 3",
+          "tahun": 2024,
+          "judul": "Perubahan atas Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2016 tentang Pengelolaan Aset Desa",
+          "status": "BERLAKU",
+          "statusNotes": "Diundangkan 17 April 2024. Mengubah ketentuan pemindahtanganan, pengadaan tanah, dan penatausahaan aset desa.",
+          "berlakuSejak": "17 April 2024",
+          "badge": "RELEVAN — ASET DESA",
+          "badgeWarna": "amber",
+          "relevansi": "Relevan untuk pengelolaan dan penelusuran aset/tanah desa. Mengatur prosedur inventarisasi, pemanfaatan, pemindahtanganan, dan pengawasan aset desa termasuk tanah kas desa.",
+          "url": "https://peraturan.bpk.go.id/Details/291466/permendagri-no-3-tahun-2024",
+          "arsip": false
+        }
+      ]
+    }
+  ]
+}
