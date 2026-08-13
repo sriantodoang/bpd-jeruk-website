@@ -73,9 +73,9 @@
     "keterwakilanWilayah": 6,
     "keterwakilanPerempuan": 3,
     "wilayah": [
-      { "nama": "Wilayah I", "dusun": "Dusun Jeruk & Dusun Koplak", "jumlahAnggota": 2 },
-      { "nama": "Wilayah II", "dusun": "Dusun Kedungrejo & Dusun Kebonan", "jumlahAnggota": 2 },
-      { "nama": "Wilayah III", "dusun": "Dusun Karanganom & Dusun Bakalan", "jumlahAnggota": 2 }
+      { "nama": "Wilayah I", "dusun": "Dusun Gempolsari & Dusun Mendalan", "jumlahAnggota": 2 },
+      { "nama": "Wilayah II", "dusun": "Dusun Cengklik & Dusun Jeruk", "jumlahAnggota": 2 },
+      { "nama": "Wilayah III", "dusun": "Dusun Tanjunganom & Dusun Ledok", "jumlahAnggota": 2 }
     ]
   },
   "struktur": {
@@ -102,15 +102,15 @@
       { "nama": "Sukardi", "jabatan": "Anggota BPD", "wilayah": "Wilayah I" },
       { "nama": "Srianto", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
       { "nama": "Dwi Wiyono", "jabatan": "Anggota BPD", "wilayah": "Wilayah II" },
-      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
-      { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
+      { "nama": "Dany Syagi Prasetyo", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
+      { "nama": "Jubaidi", "jabatan": "Anggota BPD", "wilayah": "Wilayah III" },
       { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Keterwakilan Perempuan" },
       { "nama": "[Nama Anggota]", "jabatan": "Anggota BPD", "wilayah": "Keterwakilan Perempuan" }
     ]
   },
   "kontakBPD": {
-    "whatsapp": "",
-    "email": "",
+    "whatsapp": "085280001567",
+    "email": "bpd.jeruk-miri@desa.id",
     "alamat": "Balai Desa Jeruk, Kecamatan Miri, Kabupaten Sragen"
   }
 }
