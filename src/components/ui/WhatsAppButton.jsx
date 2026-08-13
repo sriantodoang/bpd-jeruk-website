@@ -1,6 +1,6 @@
 import { MessageCircle } from 'lucide-react';
 
-export default function WhatsAppButton({ phoneNumber }) {
+export default function WhatsAppButton({ 6285280001567 }) {
   const message = encodeURIComponent(
     'Halo BPD Desa Jeruk, saya ingin menyampaikan aspirasi/pertanyaan...'
   );
