@@ -7,6 +7,7 @@ import {
 import bpdData from '../data/bpd.json';
 import desaData from '../data/desa.json';
 import beritaData from '../data/berita.json';
+import AgendaPrioritas from '../components/ui/AgendaPrioritas';
 
 const quickMenus = [
   { icon: Users, label: 'Profil BPD', path: '/profil-bpd', color: 'bg-emerald-600' },
@@ -185,6 +186,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* ── AGENDA PRIORITAS BPD ── */}
+      <AgendaPrioritas />
 
       {/* ── BERITA TERBARU ── */}
       <section className="py-12 px-4">

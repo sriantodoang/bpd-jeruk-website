@@ -13,6 +13,7 @@ import DesaJeruk from './pages/DesaJeruk';
 import Pilkades from './pages/Pilkades';
 import KomitmenBPD from './pages/KomitmenBPD';
 import ProgramKerja from './pages/ProgramKerja';
+import ProgramPrioritas from './pages/ProgramPrioritas';
 import NotFound from './pages/NotFound';
 import configData from './data/config.json';
 
@@ -34,6 +35,7 @@ function App() {
             <Route path="/pilkades-2027" element={<Pilkades />} />
             <Route path="/komitmen-bpd" element={<KomitmenBPD />} />
             <Route path="/program-kerja" element={<ProgramKerja />} />
+            <Route path="/program-prioritas" element={<ProgramPrioritas />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </main>

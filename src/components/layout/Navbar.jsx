@@ -12,6 +12,7 @@ const navLinks = [
   {
     label: 'Lebih',
     children: [
+      { label: 'Program Prioritas', path: '/program-prioritas' },
       { label: 'Program Kerja', path: '/program-kerja' },
       { label: 'Pakta Komitmen', path: '/komitmen-bpd' },
       { label: 'Data Desa Jeruk', path: '/desa-jeruk' },

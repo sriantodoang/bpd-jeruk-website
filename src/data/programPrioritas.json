@@ -1,0 +1,139 @@
+{
+  "judul": "Agenda Prioritas BPD Desa Jeruk",
+  "subtitle": "Program strategis BPD Periode 2026–2034 untuk kemajuan Desa Jeruk",
+  "program": [
+    {
+      "id": "tanah-kas-desa",
+      "slug": "penelusuran-aset-desa",
+      "ikon": "Search",
+      "warna": "amber",
+      "judul": "Penelusuran Aset Desa",
+      "judulLengkap": "Penelusuran dan Klarifikasi Status Tanah Kas Desa Jeruk",
+      "ringkasan": "Penelusuran dan klarifikasi status serta pemanfaatan tanah kas Desa Jeruk.",
+      "status": "Dalam Penelusuran / Verifikasi",
+      "statusWarna": "amber",
+      "keterangan": "Program ini bertujuan memperoleh kejelasan mengenai status administrasi, legalitas, riwayat penguasaan/pemanfaatan, dan kondisi aset tanah kas desa berdasarkan dokumen serta sumber resmi.",
+      "tujuan": "Memperoleh kejelasan dan kepastian mengenai status administrasi, legalitas, riwayat penguasaan serta pemanfaatan tanah kas Desa Jeruk berdasarkan dokumen dan sumber resmi yang dapat dipertanggungjawabkan.",
+      "latarBelakang": "Sebagai bagian dari tugas pengawasan dan perlindungan aset desa, BPD Desa Jeruk memandang perlu untuk melakukan penelusuran dan klarifikasi terhadap status tanah kas desa secara menyeluruh. Program ini dilaksanakan dalam kerangka kelembagaan BPD sesuai kewenangan yang diatur dalam peraturan perundang-undangan yang berlaku, dengan mengutamakan prinsip kehati-hatian, objektivitas, dan penghormatan terhadap proses hukum yang berlaku.",
+      "langkah": [
+        "Mengumpulkan dokumen aset desa dari sumber resmi (arsip desa, BPN, instansi terkait).",
+        "Memeriksa administrasi dan riwayat penguasaan/pemanfaatan tanah berdasarkan dokumen yang tersedia.",
+        "Meminta klarifikasi kepada pihak-pihak terkait melalui mekanisme resmi dan kelembagaan.",
+        "Mendokumentasikan seluruh proses dan temuan secara tertib.",
+        "Menyampaikan hasil penelusuran kepada masyarakat sesuai kewenangan dan aturan yang berlaku."
+      ],
+      "dokumenDiperlukan": [
+        "Buku Tanah / Sertifikat tanah kas desa",
+        "Peta persil dan batas wilayah",
+        "Dokumen riwayat pemanfaatan/sewa tanah kas desa",
+        "Berita acara terkait aset desa",
+        "Dokumen administrasi pertanahan dari instansi berwenang"
+      ],
+      "hasilDiharapkan": [
+        "Tersedianya dokumen inventaris aset tanah kas desa yang lengkap dan terverifikasi.",
+        "Kejelasan status administrasi dan legalitas tanah kas desa.",
+        "Rekomendasi langkah kelembagaan berikutnya apabila diperlukan.",
+        "Laporan resmi yang dapat disampaikan kepada masyarakat sesuai prosedur yang berlaku."
+      ],
+      "catatan": "BPD tidak membuat kesimpulan sebelum proses verifikasi selesai. Semua pernyataan bersifat institusional dan mengacu pada dokumen resmi."
+    },
+    {
+      "id": "transparansi-desa",
+      "slug": "transparansi-desa",
+      "ikon": "Eye",
+      "warna": "blue",
+      "judul": "Transparansi Desa",
+      "judulLengkap": "Transparansi dan Keterbukaan Informasi Desa",
+      "ringkasan": "Mendorong keterbukaan informasi dan dokumentasi kegiatan desa.",
+      "status": "Berjalan",
+      "statusWarna": "green",
+      "keterangan": "BPD berkomitmen mendorong pemerintah desa untuk menjalankan prinsip keterbukaan informasi publik sesuai peraturan yang berlaku, termasuk publikasi APBDes, laporan kegiatan, dan dokumentasi musyawarah desa.",
+      "tujuan": "Memastikan seluruh informasi publik terkait pemerintahan desa tersedia, mudah diakses, dan dapat dipertanggungjawabkan oleh masyarakat.",
+      "latarBelakang": "Keterbukaan informasi merupakan hak masyarakat dan kewajiban penyelenggara pemerintahan desa. BPD berperan mendorong dan mengawasi implementasi prinsip transparansi dalam setiap aspek tata kelola desa.",
+      "langkah": [
+        "Mendorong publikasi APBDes dan laporan realisasi anggaran secara rutin.",
+        "Memastikan hasil Musyawarah Desa (Musdes) didokumentasikan dan dapat diakses masyarakat.",
+        "Mendorong tersedianya papan informasi desa yang informatif dan terkini.",
+        "Memantau ketersediaan informasi publik pada kanal resmi pemerintah desa.",
+        "Menyampaikan laporan kegiatan BPD secara berkala kepada masyarakat."
+      ],
+      "dokumenDiperlukan": [
+        "APBDes dan laporan realisasi anggaran",
+        "Berita acara Musyawarah Desa",
+        "Laporan kegiatan pemerintah desa",
+        "Dokumen Peraturan Desa (Perdes) yang telah ditetapkan"
+      ],
+      "hasilDiharapkan": [
+        "Meningkatnya aksesibilitas informasi publik desa bagi seluruh warga.",
+        "Tersedianya dokumentasi kegiatan desa yang tertib dan terorganisir.",
+        "Meningkatnya kepercayaan masyarakat terhadap penyelenggaraan pemerintahan desa."
+      ],
+      "catatan": null
+    },
+    {
+      "id": "aspirasi-masyarakat",
+      "slug": "aspirasi-masyarakat",
+      "ikon": "MessageSquare",
+      "warna": "green",
+      "judul": "Aspirasi Masyarakat",
+      "judulLengkap": "Penguatan Mekanisme Aspirasi Masyarakat",
+      "ringkasan": "Membangun mekanisme penampungan dan penyaluran aspirasi masyarakat.",
+      "status": "Berjalan",
+      "statusWarna": "green",
+      "keterangan": "BPD membuka dan memperkuat jalur aspirasi agar setiap warga Desa Jeruk dapat menyampaikan masukan, keluhan, dan harapannya secara mudah, aman, dan dapat ditindaklanjuti.",
+      "tujuan": "Membangun saluran aspirasi yang efektif sehingga suara masyarakat dapat disampaikan, dicatat, dan ditindaklanjuti secara kelembagaan.",
+      "latarBelakang": "Fungsi penampungan dan penyaluran aspirasi merupakan salah satu fungsi utama BPD sesuai peraturan perundang-undangan. BPD berkomitmen menjalankan fungsi ini secara aktif dan terstruktur.",
+      "langkah": [
+        "Membuka jalur aspirasi melalui kunjungan lapangan rutin ke setiap wilayah.",
+        "Menyediakan mekanisme aspirasi tertulis yang dapat disampaikan langsung ke BPD.",
+        "Merekap dan mengklasifikasikan seluruh aspirasi yang diterima.",
+        "Menyampaikan aspirasi kepada pemerintah desa dan instansi terkait.",
+        "Menginformasikan tindak lanjut aspirasi kepada masyarakat secara berkala."
+      ],
+      "dokumenDiperlukan": [
+        "Formulir/catatan aspirasi masyarakat",
+        "Rekapitulasi aspirasi per wilayah",
+        "Notulensi hasil tindak lanjut aspirasi"
+      ],
+      "hasilDiharapkan": [
+        "Tersedianya mekanisme aspirasi yang mudah diakses oleh seluruh warga.",
+        "Setiap aspirasi yang masuk tercatat dan dapat ditindaklanjuti.",
+        "Meningkatnya keterlibatan masyarakat dalam proses pembangunan desa."
+      ],
+      "catatan": null
+    },
+    {
+      "id": "tata-kelola",
+      "slug": "tata-kelola-partisipasi",
+      "ikon": "Users",
+      "warna": "purple",
+      "judul": "Tata Kelola & Partisipasi",
+      "judulLengkap": "Penguatan Tata Kelola dan Partisipasi Masyarakat",
+      "ringkasan": "Memperkuat musyawarah, partisipasi masyarakat dan fungsi BPD.",
+      "status": "Berjalan",
+      "statusWarna": "green",
+      "keterangan": "BPD berkomitmen memperkuat budaya musyawarah, meningkatkan partisipasi aktif masyarakat dalam pengambilan keputusan desa, serta menjalankan seluruh fungsi kelembagaan BPD secara profesional.",
+      "tujuan": "Memperkuat tata kelola pemerintahan desa melalui pelaksanaan musyawarah yang inklusif, pengawasan yang efektif, dan peningkatan partisipasi aktif seluruh lapisan masyarakat.",
+      "latarBelakang": "Tata kelola desa yang baik memerlukan keterlibatan aktif seluruh elemen masyarakat. BPD berperan sebagai lembaga perwakilan yang memastikan setiap keputusan desa diambil secara demokratis dan dapat dipertanggungjawabkan.",
+      "langkah": [
+        "Menyelenggarakan Musyawarah Desa (Musdes) sesuai jadwal dan ketentuan yang berlaku.",
+        "Mendorong keterlibatan perempuan, pemuda, dan kelompok rentan dalam proses musyawarah.",
+        "Melaksanakan fungsi legislasi desa secara aktif dan bertanggung jawab.",
+        "Menjalankan pengawasan kinerja pemerintah desa secara objektif dan konstruktif.",
+        "Meningkatkan kapasitas anggota BPD melalui pelatihan dan koordinasi dengan instansi terkait."
+      ],
+      "dokumenDiperlukan": [
+        "Tata tertib BPD",
+        "Agenda dan notulensi Musyawarah Desa",
+        "Laporan pengawasan BPD",
+        "Program kerja BPD"
+      ],
+      "hasilDiharapkan": [
+        "Terlaksananya Musyawarah Desa yang inklusif dan berkualitas.",
+        "Meningkatnya partisipasi masyarakat dalam pengambilan keputusan desa.",
+        "Terjalankannya fungsi legislasi dan pengawasan BPD secara optimal."
+      ],
+      "catatan": null
+    }
+  ]
+}
