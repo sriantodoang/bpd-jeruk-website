@@ -75,7 +75,7 @@
     "wilayah": [
       { "nama": "Wilayah I", "dusun": "Dusun Gempolsari & Dusun Mendalan", "jumlahAnggota": 2 },
       { "nama": "Wilayah II", "dusun": "Dusun Cengklik & Dusun Jeruk", "jumlahAnggota": 2 },
-      { "nama": "Wilayah III", "dusun": "Dusun Tanjunganom & Dusun Ledok", "jumlahAnggota": 2 }
+      { "nama": "Wilayah III", "dusun": "Dusun Tanjunganom & Dusun ", "jumlahAnggota": 2 }
     ]
   },
   "struktur": {
