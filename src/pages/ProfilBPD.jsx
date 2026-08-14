@@ -197,18 +197,3 @@ export default function ProfilBPD() {
               <div className="text-primary-600 text-xs mt-1 font-medium">3 anggota (termasuk Sekretaris BPD)</div>
             </div>
           </div>
-
-          {/* Panduan foto untuk operator */}
-          <div className="mt-6 bg-amber-50 border border-amber-200 rounded-xl p-4">
-            <p className="text-sm text-amber-800">
-              <strong>Untuk Operator:</strong> Untuk mengganti foto anggota, upload foto ke folder{' '}
-              <code className="bg-amber-100 px-1 rounded">public/images/anggota/</code>{' '}
-              sesuai nama file di <code className="bg-amber-100 px-1 rounded">src/data/bpd.json</code>.
-              Lihat panduan lengkap di file <strong>OPERATOR.md</strong>.
-            </p>
-          </div>
-        </section>
-      </div>
-    </div>
-  );
-}
