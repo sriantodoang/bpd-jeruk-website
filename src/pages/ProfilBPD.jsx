@@ -197,3 +197,5 @@ export default function ProfilBPD() {
               <div className="text-primary-600 text-xs mt-1 font-medium">3 anggota (termasuk Sekretaris BPD)</div>
             </div>
           </div>
+  );
+}
