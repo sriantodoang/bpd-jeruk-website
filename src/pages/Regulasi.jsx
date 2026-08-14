@@ -238,14 +238,17 @@ export default function Regulasi() {
           {kelompok.map((k) => {
             const Icon = kelompokIcon[k.id] || FileText;
             return (
-              <a
+              <button
                 key={k.id}
-                href={`#${k.id}`}
+                onClick={() => {
+                  const el = document.getElementById(k.id);
+                  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }}
                 className="flex-shrink-0 inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-gray-100 text-gray-600 hover:bg-primary-100 hover:text-primary-800 transition-colors"
               >
                 <Icon className="w-3.5 h-3.5" />
                 {k.label}. {k.judul}
-              </a>
+              </button>
             );
           })}
         </div>
