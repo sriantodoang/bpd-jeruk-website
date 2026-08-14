@@ -1,0 +1,163 @@
+{
+  "_panduan": "File ini adalah daftar semua foto yang digunakan di website. Setiap foto harus didaftarkan di sini agar dapat tampil di halaman galeri dan berita.",
+  "profilBPD": [
+    {
+      "id": "bpd-001",
+      "nama": "Foto Profil BPD",
+      "kategori": "profilBPD",
+      "file": "images/bpd/foto-bpd-bersama.jpg",
+      "judul": "Foto Bersama BPD Desa Jeruk Periode 2026-2034",
+      "deskripsi": "Foto resmi seluruh anggota BPD Desa Jeruk setelah pelantikan",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    }
+  ],
+  "anggota": [
+    {
+      "id": "anggota-001",
+      "nama": "Foto Ketua BPD",
+      "kategori": "anggota",
+      "file": "images/anggota/ketua-bpd.jpg",
+      "judul": "Ketua BPD Desa Jeruk",
+      "deskripsi": "Foto resmi Ketua BPD Desa Jeruk",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "anggota-002",
+      "nama": "Foto Wakil Ketua BPD",
+      "kategori": "anggota",
+      "file": "images/anggota/wakil-ketua-bpd.jpg",
+      "judul": "Wakil Ketua BPD Desa Jeruk",
+      "deskripsi": "Foto resmi Wakil Ketua BPD Desa Jeruk",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "anggota-003",
+      "nama": "Foto Sekretaris BPD",
+      "kategori": "anggota",
+      "file": "images/anggota/sekretaris-bpd.jpg",
+      "judul": "Sekretaris BPD Desa Jeruk",
+      "deskripsi": "Foto resmi Sekretaris BPD Desa Jeruk",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "anggota-004",
+      "nama": "Foto Sunarno",
+      "kategori": "anggota",
+      "file": "images/anggota/sunarno.jpg",
+      "judul": "Sunarno - Anggota BPD Wilayah I",
+      "deskripsi": "Foto resmi anggota BPD wilayah I",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "anggota-005",
+      "nama": "Foto Sukardi",
+      "kategori": "anggota",
+      "file": "images/anggota/sukardi.jpg",
+      "judul": "Sukardi - Anggota BPD Wilayah I",
+      "deskripsi": "Foto resmi anggota BPD wilayah I",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "anggota-006",
+      "nama": "Foto Srianto",
+      "kategori": "anggota",
+      "file": "images/anggota/srianto.jpg",
+      "judul": "Srianto - Anggota BPD Wilayah II",
+      "deskripsi": "Foto resmi anggota BPD wilayah II",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "anggota-007",
+      "nama": "Foto Dwi Wiyono",
+      "kategori": "anggota",
+      "file": "images/anggota/dwi-wiyono.jpg",
+      "judul": "Dwi Wiyono - Anggota BPD Wilayah II",
+      "deskripsi": "Foto resmi anggota BPD wilayah II",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "anggota-008",
+      "nama": "Foto Dany Syagi Prasetyo",
+      "kategori": "anggota",
+      "file": "images/anggota/dany-syagi-prasetyo.jpg",
+      "judul": "Dany Syagi Prasetyo - Anggota BPD Wilayah III",
+      "deskripsi": "Foto resmi anggota BPD wilayah III",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "anggota-009",
+      "nama": "Foto Jubaidi",
+      "kategori": "anggota",
+      "file": "images/anggota/jubaidi.jpg",
+      "judul": "Jubaidi - Anggota BPD Wilayah III",
+      "deskripsi": "Foto resmi anggota BPD wilayah III",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    }
+  ],
+  "kegiatan": [
+    {
+      "id": "kegiatan-001",
+      "nama": "Pelantikan BPD 2026",
+      "kategori": "kegiatan",
+      "file": "images/kegiatan/pelantikan-bpd-2026-01.jpg",
+      "judul": "Pelantikan Anggota BPD Periode 2026-2034",
+      "deskripsi": "Dokumentasi pelantikan anggota BPD Desa Jeruk oleh Camat Miri",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    },
+    {
+      "id": "kegiatan-002",
+      "nama": "Musyawarah Desa RKPDes 2026",
+      "kategori": "kegiatan",
+      "file": "images/kegiatan/musdes-rkpdes-2026-01.jpg",
+      "judul": "Musyawarah Desa Pembahasan RKPDes 2026",
+      "deskripsi": "Musyawarah desa yang dihadiri seluruh elemen masyarakat Desa Jeruk",
+      "tanggal": "2026-02-25",
+      "status": "placeholder"
+    },
+    {
+      "id": "kegiatan-003",
+      "nama": "Aspirasi Warga Karanganom",
+      "kategori": "kegiatan",
+      "file": "images/kegiatan/aspirasi-karanganom-2026-01.jpg",
+      "judul": "BPD Tampung Aspirasi Warga Dusun Karanganom",
+      "deskripsi": "Kunjungan lapangan BPD untuk menampung aspirasi warga",
+      "tanggal": "2026-03-10",
+      "status": "placeholder"
+    }
+  ],
+  "berita": [
+    {
+      "id": "berita-001",
+      "nama": "Thumbnail Pelantikan BPD",
+      "kategori": "berita",
+      "file": "images/berita/pelantikan-bpd-2026.jpg",
+      "judul": "Pelantikan Anggota BPD Desa Jeruk Periode 2026-2034",
+      "deskripsi": "Foto untuk berita pelantikan BPD",
+      "tanggal": "2026-01-15",
+      "status": "placeholder"
+    }
+  ],
+  "galeri": [
+    {
+      "id": "galeri-001",
+      "nama": "Balai Desa Jeruk",
+      "kategori": "desa",
+      "file": "images/desa/balai-desa-jeruk.jpg",
+      "judul": "Balai Desa Jeruk",
+      "deskripsi": "Balai Desa Jeruk, Kecamatan Miri, Kabupaten Sragen",
+      "tanggal": "2026-01-01",
+      "status": "placeholder"
+    }
+  ]
+}

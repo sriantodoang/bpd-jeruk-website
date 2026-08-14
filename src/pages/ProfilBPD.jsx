@@ -2,14 +2,42 @@ import { Users, BookOpen, Target, ExternalLink, User } from 'lucide-react';
 import PageHeader from '../components/ui/PageHeader';
 import bpdData from '../data/bpd.json';
 
+/**
+ * Komponen kartu anggota BPD.
+ * Menampilkan foto jika tersedia, fallback ke ikon avatar jika foto belum ada.
+ */
 function MemberCard({ member, isLeader = false }) {
+  const fotoSrc = member.foto ? `/${member.foto}` : null;
+
   return (
     <div className={`card p-5 text-center ${isLeader ? 'border-primary-200 bg-primary-50/50' : ''}`}>
-      <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-3 ${
-        isLeader ? 'bg-primary-700' : 'bg-gray-200'
+      {/* Foto anggota */}
+      <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-3 overflow-hidden ${
+        isLeader ? 'ring-2 ring-primary-300' : 'ring-1 ring-gray-200'
       }`}>
-        <User className={`w-8 h-8 ${isLeader ? 'text-white' : 'text-gray-400'}`} />
+        {fotoSrc ? (
+          <img
+            src={fotoSrc}
+            alt={`Foto ${member.nama}`}
+            className="w-full h-full object-cover"
+            onError={(e) => {
+              // Jika foto tidak ditemukan, tampilkan ikon fallback
+              e.target.style.display = 'none';
+              e.target.parentElement.classList.add(isLeader ? 'bg-primary-700' : 'bg-gray-200');
+              const icon = document.createElement('div');
+              icon.innerHTML = isLeader
+                ? '<svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg>'
+                : '<svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg>';
+              e.target.parentElement.appendChild(icon.firstChild);
+            }}
+          />
+        ) : (
+          <div className={`w-full h-full flex items-center justify-center ${isLeader ? 'bg-primary-700' : 'bg-gray-200'}`}>
+            <User className={`w-8 h-8 ${isLeader ? 'text-white' : 'text-gray-400'}`} />
+          </div>
+        )}
       </div>
+
       <div className="font-display font-semibold text-gray-900 text-sm">{member.nama}</div>
       <div className={`text-xs font-medium mt-1 ${isLeader ? 'text-primary-700' : 'text-gray-500'}`}>
         {member.jabatan}
@@ -17,8 +45,11 @@ function MemberCard({ member, isLeader = false }) {
       {member.wilayah && (
         <div className="text-xs text-gray-400 mt-1">{member.wilayah}</div>
       )}
-      {member.pendidikan && (
+      {member.pendidikan && member.pendidikan !== '—' && (
         <span className="badge bg-gray-100 text-gray-600 mt-2 text-xs">{member.pendidikan}</span>
+      )}
+      {member.profilSingkat && member.profilSingkat !== '' && (
+        <p className="text-xs text-gray-400 mt-2 leading-relaxed line-clamp-2">{member.profilSingkat}</p>
       )}
     </div>
   );
@@ -165,6 +196,16 @@ export default function ProfilBPD() {
               <div className="text-gray-500 text-xs">Representasi kepentingan perempuan desa</div>
               <div className="text-primary-600 text-xs mt-1 font-medium">3 anggota (termasuk Sekretaris BPD)</div>
             </div>
+          </div>
+
+          {/* Panduan foto untuk operator */}
+          <div className="mt-6 bg-amber-50 border border-amber-200 rounded-xl p-4">
+            <p className="text-sm text-amber-800">
+              <strong>Untuk Operator:</strong> Untuk mengganti foto anggota, upload foto ke folder{' '}
+              <code className="bg-amber-100 px-1 rounded">public/images/anggota/</code>{' '}
+              sesuai nama file di <code className="bg-amber-100 px-1 rounded">src/data/bpd.json</code>.
+              Lihat panduan lengkap di file <strong>OPERATOR.md</strong>.
+            </p>
           </div>
         </section>
       </div>

@@ -17,6 +17,7 @@ const navLinks = [
       { label: 'Program Kerja', path: '/program-kerja' },
       { label: 'Pakta Komitmen', path: '/komitmen-bpd' },
       { label: 'Data Desa Jeruk', path: '/desa-jeruk' },
+      { label: 'Galeri Foto', path: '/galeri' },
       { label: 'Pilkades 2027', path: '/pilkades-2027' },
     ],
   },

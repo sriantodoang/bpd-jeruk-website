@@ -107,60 +107,101 @@
       "nama": "[Nama Ketua]",
       "jabatan": "Ketua BPD",
       "wilayah": "—",
-      "pendidikan": "—"
+      "keterwakilan": "—",
+      "pendidikan": "—",
+      "foto": "images/anggota/ketua-bpd.jpg",
+      "profilSingkat": "Ketua BPD Desa Jeruk periode 2026-2034."
     },
     "wakilKetua": {
       "nama": "[Nama Wakil Ketua]",
       "jabatan": "Wakil Ketua BPD",
       "wilayah": "—",
-      "pendidikan": "—"
+      "keterwakilan": "—",
+      "pendidikan": "—",
+      "foto": "images/anggota/wakil-ketua-bpd.jpg",
+      "profilSingkat": "Wakil Ketua BPD Desa Jeruk periode 2026-2034."
     },
     "sekretaris": {
       "nama": "[Nama Sekretaris]",
       "jabatan": "Sekretaris BPD",
       "wilayah": "Keterwakilan Perempuan",
-      "pendidikan": "—"
+      "keterwakilan": "Perempuan",
+      "pendidikan": "—",
+      "foto": "images/anggota/sekretaris-bpd.jpg",
+      "profilSingkat": "Sekretaris BPD Desa Jeruk, mewakili keterwakilan perempuan."
     },
     "anggota": [
       {
         "nama": "Sunarno",
         "jabatan": "Anggota BPD",
-        "wilayah": "Wilayah I"
+        "wilayah": "Wilayah I",
+        "keterwakilan": "Wilayah",
+        "pendidikan": "—",
+        "foto": "images/anggota/sunarno.jpg",
+        "profilSingkat": "Anggota BPD mewakili Wilayah I (Dusun Gempolsari & Mendalan)."
       },
       {
         "nama": "Sukardi",
         "jabatan": "Anggota BPD",
-        "wilayah": "Wilayah I"
+        "wilayah": "Wilayah I",
+        "keterwakilan": "Wilayah",
+        "pendidikan": "—",
+        "foto": "images/anggota/sukardi.jpg",
+        "profilSingkat": "Anggota BPD mewakili Wilayah I (Dusun Gempolsari & Mendalan)."
       },
       {
         "nama": "Srianto",
         "jabatan": "Anggota BPD",
-        "wilayah": "Wilayah II"
+        "wilayah": "Wilayah II",
+        "keterwakilan": "Wilayah",
+        "pendidikan": "—",
+        "foto": "images/anggota/srianto.jpg",
+        "profilSingkat": "Anggota BPD mewakili Wilayah II (Dusun Cengklik & Jeruk)."
       },
       {
         "nama": "Dwi Wiyono",
         "jabatan": "Anggota BPD",
-        "wilayah": "Wilayah II"
+        "wilayah": "Wilayah II",
+        "keterwakilan": "Wilayah",
+        "pendidikan": "—",
+        "foto": "images/anggota/dwi-wiyono.jpg",
+        "profilSingkat": "Anggota BPD mewakili Wilayah II (Dusun Cengklik & Jeruk)."
       },
       {
         "nama": "Dany Syagi Prasetyo",
         "jabatan": "Anggota BPD",
-        "wilayah": "Wilayah III"
+        "wilayah": "Wilayah III",
+        "keterwakilan": "Wilayah",
+        "pendidikan": "—",
+        "foto": "images/anggota/dany-syagi-prasetyo.jpg",
+        "profilSingkat": "Anggota BPD mewakili Wilayah III (Dusun Tanjunganom & Ledok)."
       },
       {
         "nama": "Jubaidi",
         "jabatan": "Anggota BPD",
-        "wilayah": "Wilayah III"
+        "wilayah": "Wilayah III",
+        "keterwakilan": "Wilayah",
+        "pendidikan": "—",
+        "foto": "images/anggota/jubaidi.jpg",
+        "profilSingkat": "Anggota BPD mewakili Wilayah III (Dusun Tanjunganom & Ledok)."
       },
       {
         "nama": "[Nama Anggota]",
         "jabatan": "Anggota BPD",
-        "wilayah": "Keterwakilan Perempuan"
+        "wilayah": "Keterwakilan Perempuan",
+        "keterwakilan": "Perempuan",
+        "pendidikan": "—",
+        "foto": "images/anggota/anggota-perempuan-01.jpg",
+        "profilSingkat": "Anggota BPD mewakili keterwakilan perempuan Desa Jeruk."
       },
       {
         "nama": "[Nama Anggota]",
         "jabatan": "Anggota BPD",
-        "wilayah": "Keterwakilan Perempuan"
+        "wilayah": "Keterwakilan Perempuan",
+        "keterwakilan": "Perempuan",
+        "pendidikan": "—",
+        "foto": "images/anggota/anggota-perempuan-02.jpg",
+        "profilSingkat": "Anggota BPD mewakili keterwakilan perempuan Desa Jeruk."
       }
     ]
   },

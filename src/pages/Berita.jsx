@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Calendar, Tag, Newspaper, Search } from 'lucide-react';
+import { Calendar, Newspaper, Search } from 'lucide-react';
 import PageHeader from '../components/ui/PageHeader';
 import beritaData from '../data/berita.json';
 
@@ -72,32 +72,54 @@ export default function Berita() {
           </div>
         ) : (
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filtered.map((berita) => (
-              <Link
-                to={`/berita/${berita.slug}`}
-                key={berita.id}
-                className="card overflow-hidden group"
-              >
-                <div className="bg-gradient-to-br from-primary-100 to-primary-200 h-44 flex items-center justify-center relative">
-                  <Newspaper className="w-12 h-12 text-primary-400" />
-                </div>
-                <div className="p-5">
-                  <div className="flex items-center gap-2 mb-3">
-                    <span className="badge bg-primary-100 text-primary-700 text-xs">{berita.kategori}</span>
+            {filtered.map((berita) => {
+              const thumbSrc = berita.gambar ? `/${berita.gambar}` : null;
+              return (
+                <Link
+                  to={`/berita/${berita.slug}`}
+                  key={berita.id}
+                  className="card overflow-hidden group"
+                >
+                  {/* Thumbnail */}
+                  <div className="h-44 overflow-hidden bg-gradient-to-br from-primary-100 to-primary-200 relative">
+                    {thumbSrc ? (
+                      <img
+                        src={thumbSrc}
+                        alt={berita.judul}
+                        className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                        onError={(e) => {
+                          e.target.style.display = 'none';
+                        }}
+                      />
+                    ) : (
+                      <div className="w-full h-full flex items-center justify-center">
+                        <Newspaper className="w-12 h-12 text-primary-400" />
+                      </div>
+                    )}
                   </div>
-                  <h3 className="font-display font-semibold text-gray-900 leading-snug mb-2 group-hover:text-primary-700 transition-colors line-clamp-2">
-                    {berita.judul}
-                  </h3>
-                  <p className="text-sm text-gray-500 line-clamp-3 mb-4">{berita.ringkasan}</p>
-                  <div className="flex items-center justify-between text-xs text-gray-400 pt-3 border-t border-gray-100">
-                    <span className="flex items-center gap-1">
-                      <Calendar className="w-3.5 h-3.5" /> {formatDate(berita.tanggal)}
-                    </span>
-                    <span>{berita.penulis}</span>
+                  <div className="p-5">
+                    <div className="flex items-center gap-2 mb-3">
+                      <span className="badge bg-primary-100 text-primary-700 text-xs">{berita.kategori}</span>
+                      {berita.galeri && berita.galeri.length > 0 && (
+                        <span className="badge bg-gray-100 text-gray-500 text-xs">
+                          {berita.galeri.length} foto
+                        </span>
+                      )}
+                    </div>
+                    <h3 className="font-display font-semibold text-gray-900 leading-snug mb-2 group-hover:text-primary-700 transition-colors line-clamp-2">
+                      {berita.judul}
+                    </h3>
+                    <p className="text-sm text-gray-500 line-clamp-3 mb-4">{berita.ringkasan}</p>
+                    <div className="flex items-center justify-between text-xs text-gray-400 pt-3 border-t border-gray-100">
+                      <span className="flex items-center gap-1">
+                        <Calendar className="w-3.5 h-3.5" /> {formatDate(berita.tanggal)}
+                      </span>
+                      <span>{berita.penulis}</span>
+                    </div>
                   </div>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              );
+            })}
           </div>
         )}
       </div>

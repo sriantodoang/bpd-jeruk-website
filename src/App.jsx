@@ -9,6 +9,7 @@ import Aspirasi from './pages/Aspirasi';
 import Transparansi from './pages/Transparansi';
 import Berita from './pages/Berita';
 import BeritaDetail from './pages/BeritaDetail';
+import Galeri from './pages/Galeri';
 import DesaJeruk from './pages/DesaJeruk';
 import Pilkades from './pages/Pilkades';
 import KomitmenBPD from './pages/KomitmenBPD';
@@ -32,6 +33,7 @@ function App() {
             <Route path="/transparansi" element={<Transparansi />} />
             <Route path="/berita" element={<Berita />} />
             <Route path="/berita/:slug" element={<BeritaDetail />} />
+            <Route path="/galeri" element={<Galeri />} />
             <Route path="/desa-jeruk" element={<DesaJeruk />} />
             <Route path="/pilkades-2027" element={<Pilkades />} />
             <Route path="/komitmen-bpd" element={<KomitmenBPD />} />
